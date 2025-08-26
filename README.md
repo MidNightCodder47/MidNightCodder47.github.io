@@ -7,7 +7,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MidNightCodder47&theme=discord_old_blurple)
 
 ### Application Development
-- Python - junior-middle
+- Python - junior
 - C++ - junior
 - a little bit of SQL
   
